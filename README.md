@@ -7,8 +7,8 @@ Curiosa em saber como as coisas funcionam me tornei estudante de Web Full Stack 
 
 
  <a href="https://github.com/larissafirmino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissafirmino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissafirmino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissa097-fir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa097-fi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
