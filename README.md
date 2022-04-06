@@ -5,12 +5,12 @@ Sejam Bem-Vindos(as)!!! 🤩
 
 Curiosa em saber como as coisas funcionam  e apaixonada pelo mundo do desenvolvimento me tornei estudante de Web Full Stack. Quero aprender muito mais e ajudar outras pessoas a entender a relação entre as máquinas e os códigos ✨. 
 
-
+ <div align="center">
  <a href="https://github.com/Larissa97-fir">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissa97-fir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa97-fir&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Larissa97-fir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa97-fir&layout=compact&langs_count=7&theme=tokyonight"/>
+   </a>
 </div>
-
 
 
 ## Skills and Tools 👩‍💻
@@ -20,9 +20,9 @@ Curiosa em saber como as coisas funcionam  e apaixonada pelo mundo do desenvolvi
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<br>
-<br>
-<br>
+
+<br><br>
+
 <img awidth="200%" align="right" height="180em" alt="lari-gif" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAE9IZ9SlU4%2FqVkoW4HMH34nSzOBoFReJg%2Fscreen">
 
 ### Mais coisas✨
