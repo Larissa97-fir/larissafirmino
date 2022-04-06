@@ -37,7 +37,7 @@ Curiosa em saber como as coisas funcionam  e apaixonada pelo mundo do desenvolvi
 <br>
 -💬Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
 <br>
--📝 Currículo: <a href="https://www.canva.com/design/DAEo8yvmSZ8/p0ckIEleiFXYnuLzP109EA/view?utm_content=DAEo8yvmSZ8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"> CV da Larissa</a>
+-📝 Currículo: <a href=> CV da Larissa</a>
 
 ##
 
