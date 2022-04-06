@@ -41,7 +41,7 @@
 <div> 
 <img awidth="150%" align="right" height="150em" alt="lari-gif" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAE9IomKWtw%2FCPMdq0BxwRJFVx8D-ze7hQ%2Fscreen">
   <a href = "mailto:larissafirmino097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/larissafirmino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/larissafirmino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/Larissa97-fir/larissafirmino/blob/output/github-contribution-grid-snake.svg)
  
