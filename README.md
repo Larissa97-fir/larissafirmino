@@ -25,8 +25,9 @@ Curiosa em saber como as coisas funcionam  e apaixonada pelo mundo do desenvolvi
 
 <img awidth="200%" align="right" height="180em" alt="lari-gif" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAE9IomKWtw%2FCPMdq0BxwRJFVx8D-ze7hQ%2Fscreen">
 
+ 
 ### Mais coisas✨
-
+<br>
 -🖋Inicio desta jornada na programação: Novembro/21.
 - <br>
 -🎓Estudando WEB FULL STACK na Labenu.
@@ -38,8 +39,8 @@ Curiosa em saber como as coisas funcionam  e apaixonada pelo mundo do desenvolvi
 -💬Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
 <br>
 -📝 Currículo: <a href=> CV da Larissa</a>
-
-##
+ 
+#
 
 <div> 
 
