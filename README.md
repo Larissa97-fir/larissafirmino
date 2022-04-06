@@ -8,7 +8,7 @@ Curiosa em saber como as coisas funcionam  e apaixonada pelo mundo do desenvolvi
 
  <a href="https://github.com/Larissa97-fir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissa97-fir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa97-fi&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa97-fir&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
