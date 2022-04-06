@@ -46,7 +46,7 @@ Curiosa em saber como as coisas funcionam  e apaixonada pelo mundo do desenvolvi
   <a href = "mailto:larissafirmino097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="www.linkedin.com/in/larissafirmino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Larissa97-fir/larissafirmino/blob/edit/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Larissa97-fir/larissafirmino/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
