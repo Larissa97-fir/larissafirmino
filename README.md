@@ -21,7 +21,7 @@
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Informações✨
+## Information✨
 
 -🖋Inicio desta jornada na programação: Novembro/21.
  <br>
