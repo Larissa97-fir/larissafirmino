@@ -8,11 +8,10 @@
 
  <div align="center">
  <a href="https://github.com/Larissa97-fir">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Larissa97-fir&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa97-fir&layout=compact&langs_count=7&theme=synthwave""/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Larissa97-fir&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    </a>
 </div>
-
+ 
 
 ## Skills and Tools 👩‍💻
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,16 +33,18 @@
 <br>
 -💬Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
 <br>
--📝 Currículo: <a href=> CV da Larissa</a>
- 
-#
- 
-<div> 
-<img awidth="150%" align="right" height="150em" alt="lari-gif" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAE9IomKWtw%2FCPMdq0BxwRJFVx8D-ze7hQ%2Fscreen">
+-📝 Currículo: <a href=> CV da Larissa</a>                                                                                                                                               
+<br>
   <a href = "mailto:larissafirmino097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/larissafirmino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+#
+ 
+<div styled="display: flex; aling-itens: center;"> 
+
  ![Snake animation](https://github.com/Larissa97-fir/larissafirmino/blob/output/github-contribution-grid-snake.svg)
+<img width="10%" align="right"  alt="lari-gif" src="https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fwww.canva.com%2Fdesign%2FDAE9IomKWtw%2FCPMdq0BxwRJFVx8D-ze7hQ%2Fscreen">
+ 
+  
  
  
 </div>
