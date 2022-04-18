@@ -35,7 +35,6 @@
 <br>
 -💬Pergunte-me sobre qualquer coisa, fico feliz em ajudar!
 <br>
--📝 Currículo: <a href=file:///C:/Users/Kennedy/Desktop/fotos%20de%20larissa/Curr%C3%ADculo%20-%20Larissa%20Front%20End.pdf>CV da Larissa</a>                                                                                                                                               
 <br>
   <a href = "mailto:larissafirmino097@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/larissafirmino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
