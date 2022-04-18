@@ -9,6 +9,8 @@
  <div align="center">
  <a href="https://github.com/Larissa97-fir">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Larissa97-fir&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa97-fir&layout=compact&langs_count=7&theme=synthwave"/>
+
    </a>
 </div>
  
